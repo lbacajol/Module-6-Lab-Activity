@@ -1,8 +1,7 @@
 # Leslie Bacajol
 # 11/06/21
 # Problem 6
-# This program
-#
+# This program calculates the factorial of a user input value
 
 import math
 
